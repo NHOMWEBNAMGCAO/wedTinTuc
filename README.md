@@ -1,3 +1,3 @@
 # wedTinTuc 
 Thành viên:Bình An, 
-Nguyễn xuân Nam, Nguyễn Duy Khánh.
+Nguyễn xuân Nam, Nguyễn Duy Khánh,Danh
